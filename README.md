@@ -1,16 +1,20 @@
 ## Hi there 👋
+👤 Nama : Daren Ananta  
+🆔 NIM  : 230605110152  
+📚 Kelas: Praktikum Mobile B  
 
-<!--
-**DarenAnanta/DarenAnanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 Daftar Praktikum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| No | Minggu Ke | Praktikum Ke | Topik | Repository | Laporan |
+|----|-----------|--------------|-------|-------------|----------|
+| 1  | 1 | 1 |Pengenalan Mobile Programming dan Setup Lingkungan| | |
+
+
+---
+
+⚡ Silakan ganti **USERNAME** dengan username GitHub kamu.  
+📎 Link *Repo* dan *Laporan* tinggal kamu sesuaikan dengan repository & file masing-masing.  
+
+Mau saya bikinkan juga **template laporan.md** biar kamu tinggal isi tiap minggu?
