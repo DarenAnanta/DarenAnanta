@@ -19,5 +19,5 @@
 | 8 | 4 | 8 |	Widget Flexible dan Expanded| | |
 | 9 | 5 | 9 |Pengenalan Mobile Programming dan Setup Lingkungan| | |
 | 10 | 5 | 10 |Widget Row dan Column| | |
-| 11 | 6 | 11 |Pengaturan Layout Row dan Column di Flutter| | |
+| 11 | 6 | 11 |UTS|[UTS](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|[Laporan](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|
 | 12 | 7 | 12 |	Widget Flexible dan Expanded| | |
