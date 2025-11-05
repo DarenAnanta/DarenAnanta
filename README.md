@@ -10,14 +10,15 @@
 | No | Minggu Ke | Praktikum Ke | Topik | Repository | Laporan |
 |----|-----------|--------------|-------|-------------|----------|
 | 1 | 1 | 1 |Pengenalan Mobile Programming dan Setup Lingkungan| | |
-| 2 | 1 | 2 |Widget Row dan Column| | |
-| 3 | 2 | 3 |Pengaturan Layout Row dan Column di Flutter| | |
-| 4 | 2 | 4 |	Widget Flexible dan Expanded| | |
-| 5 | 3 | 5 |Pengenalan Mobile Programming dan Setup Lingkungan| | |
-| 6 | 3 | 6 |Widget Row dan Column| | |
-| 7 | 4 | 7 |Pengaturan Layout Row dan Column di Flutter| | |
-| 8 | 4 | 8 |	Widget Flexible dan Expanded| | |
-| 9 | 5 | 9 |Pengenalan Mobile Programming dan Setup Lingkungan| | |
-| 10 | 5 | 10 |Widget Row dan Column| | |
-| 11 | 6 | 11 |UTS|[UTS](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|[Laporan](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|
-| 12 | 7 | 12 |	Widget Flexible dan Expanded| | |
+| 2 | 1 | 1 |Widget Row dan Column| | |
+| 3 | 2 | 2 |Pengaturan Layout Row dan Column di Flutter| | |
+| 4 | 2 | 2 |	Widget Flexible dan Expanded| | |
+| 5 | 3 | 3 |Widget SizedBox, Spacer, dan Card| | |
+| 6 | 3 | 3 |Widget GridView, ListView, GridView.builder, dan ListView.builder| | |
+| 7 | 4 | 4 |Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route| | |
+| 8 | 4 | 4 |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| | |
+| 9 | 5 | 5 |StatefulWidget| | |
+| 10 | 6 | 6 |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| | |
+| 11 | 7 | 7 |Manajemen State dengan GetX| | |
+| 12 | 8 | 8 |Ujian Tengah Semester|[UTS](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|[Laporan](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|
+| 13 | 9 | 9 |Akses Lokasi dengan GPS di Flutter| | |
