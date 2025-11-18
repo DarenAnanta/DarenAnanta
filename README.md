@@ -9,7 +9,7 @@
 
 | No | Minggu Ke | Praktikum Ke | Topik | Repository | Laporan |
 |----|-----------|--------------|-------|-------------|----------|
-| 1 | 1 | 1 |Pengenalan Mobile Programming dan Setup Lingkungan| [Modul 01]( "") | [Modul 1](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan") |
+| 1 | 1 | 1 |Pengenalan Mobile Programming dan Setup Lingkungan| [Modul 01]( "") | [Modul 1]("https://drive.google.com/file/d/1325ddcEIfkJCYFGPJ4IEe-zuY0438I47/view?usp=drive_link") |
 | 2 | 1 | 1 |Widget Row dan Column| | |
 | 3 | 2 | 2 |Pengaturan Layout Row dan Column di Flutter| | |
 | 4 | 2 | 2 |	Widget Flexible dan Expanded| | |
