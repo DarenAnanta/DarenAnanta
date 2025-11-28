@@ -22,3 +22,4 @@
 | 11 | 7 | 7 |Manajemen State dengan GetX| | |
 | 12 | 8 | 8 |Ujian Tengah Semester|[UTS](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|[Laporan](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|
 | 13 | 9 | 9 |Akses Lokasi dengan GPS di Flutter| | |
+| 11 | 7 | 7 |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| | |
