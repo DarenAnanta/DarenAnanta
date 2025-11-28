@@ -21,5 +21,5 @@
 | 10 | 6 | 6 |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Modul 10](https://github.com/DarenAnanta/tasbih_app) |[Laporan 10](https://drive.google.com/file/d/1PtxToHjCFvXM4wm1fJC7TUBMp8xHjw6W/view?usp=drive_link) |
 | 11 | 7 | 7 |Manajemen State dengan GetX|[Modul 11](https://github.com/DarenAnanta/tasbih_getx) |[Laporan 11](https://drive.google.com/file/d/1o0i0IIiTDDAeaQ_gMDYslw2NHNNsb21y/view?usp=sharing) |
 | 12 | 8 | 8 |Ujian Tengah Semester|[UTS](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|[Laporan](https://drive.google.com/drive/folders/1cEvFifqOh7A26m0oxnKZj5_63FkAhJzy?usp=drive_link)|
-| 13 | 9 | 9 |Akses Lokasi dengan GPS di Flutter| | |
-| 11 | 7 | 7 |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| | |
+| 13 | 9 | 9 |Akses Lokasi dengan GPS di Flutter|[Modul 12](https://github.com/DarenAnanta/lokasi_flutter) |[Laporan 12](https://drive.google.com/file/d/1Ci4iBiZCH8HX-CcOYkLm9HpVYajdayhS/view?usp=drive_link) |
+| 11 | 7 | 7 |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API|[Modul 13](https://github.com/DarenAnanta/flutter_crud_api) |[Laporan 13](https://drive.google.com/file/d/1VnX-UcpEflX4EoAc6nKy_lc2uuUCYjH6/view?usp=drive_link) |
